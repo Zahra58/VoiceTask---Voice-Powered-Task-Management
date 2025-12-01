@@ -6,9 +6,9 @@
 
 **Speak your tasks. We handle the rest.**
 
-[ Live Demo](https://voice-task.vercel.app/voicetask-free-mvp.html) | [ Documentation](#features) | [ Report Bug](https://github.com/Zahra58/voicetask-demo/issues)
+[ Live Demo](https://voice-task.vercel.app/voicetask-free-mvp.html) | [ Documentation](#features) | [ Report Bug](https://github.com/Zahra58/VoiceTask-demo/issues)
 
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/voicetask-demo?style=social)](https://github.com/Zahra58/VoiceTask-demo)
+[![GitHub stars](https://img.shields.io/github/stars/https://github.com/Zahra58/VoiceTask-demo)](https://github.com/Zahra58/VoiceTask-demo)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 </div>
